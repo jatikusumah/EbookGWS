@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://domain-anda.com/sitemap.xml
+Sitemap: https://ebookgws.vercel.app/sitemap.xml
